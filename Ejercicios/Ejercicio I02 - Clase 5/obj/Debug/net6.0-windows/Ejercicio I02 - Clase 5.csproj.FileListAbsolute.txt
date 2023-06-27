@@ -1,0 +1,22 @@
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Ejercicio I02 - Clase 5.exe
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Ejercicio I02 - Clase 5.deps.json
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Ejercicio I02 - Clase 5.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Ejercicio I02 - Clase 5.dll
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Ejercicio I02 - Clase 5.pdb
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Ingresante.dll
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Ingresante.pdb
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio_I02___Clase_5.frmRegistro.resources
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.csproj.CopyComplete
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.dll
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\refint\Ejercicio I02 - Clase 5.dll
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.pdb
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\Ejercicio I02 - Clase 5.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\obj\Debug\net6.0-windows\ref\Ejercicio I02 - Clase 5.dll
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Genero-Cursos.dll
+D:\FACULTAD\Ejercicios\Ejercicio I02 - Clase 5\bin\Debug\net6.0-windows\Genero-Cursos.pdb

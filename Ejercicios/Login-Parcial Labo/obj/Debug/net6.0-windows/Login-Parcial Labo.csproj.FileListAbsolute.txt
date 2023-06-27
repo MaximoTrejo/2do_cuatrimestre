@@ -1,0 +1,17 @@
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\bin\Debug\net6.0-windows\Login-Parcial Labo.exe
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\bin\Debug\net6.0-windows\Login-Parcial Labo.deps.json
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\bin\Debug\net6.0-windows\Login-Parcial Labo.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\bin\Debug\net6.0-windows\Login-Parcial Labo.dll
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\bin\Debug\net6.0-windows\Login-Parcial Labo.pdb
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.dll
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\refint\Login-Parcial Labo.dll
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.pdb
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login-Parcial Labo.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\ref\Login-Parcial Labo.dll
+D:\FACULTAD\Ejercicios\Login-Parcial Labo\obj\Debug\net6.0-windows\Login_Parcial_Labo.FrmInicio.resources

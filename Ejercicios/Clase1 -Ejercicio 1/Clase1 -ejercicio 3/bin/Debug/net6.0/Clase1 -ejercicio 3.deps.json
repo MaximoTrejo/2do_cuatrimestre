@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase1 -ejercicio 3/1.0.0": {
+        "dependencies": {
+          "ClaseEstaticas": "1.0.0"
+        },
+        "runtime": {
+          "Clase1 -ejercicio 3.dll": {}
+        }
+      },
+      "ClaseEstaticas/1.0.0": {
+        "runtime": {
+          "ClaseEstaticas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase1 -ejercicio 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClaseEstaticas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

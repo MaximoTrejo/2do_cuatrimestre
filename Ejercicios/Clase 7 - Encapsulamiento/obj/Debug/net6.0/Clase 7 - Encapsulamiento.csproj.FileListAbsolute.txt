@@ -1,0 +1,15 @@
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\bin\Debug\net6.0\Clase 7 - Encapsulamiento.exe
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\bin\Debug\net6.0\Clase 7 - Encapsulamiento.deps.json
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\bin\Debug\net6.0\Clase 7 - Encapsulamiento.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\bin\Debug\net6.0\Clase 7 - Encapsulamiento.dll
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\bin\Debug\net6.0\Clase 7 - Encapsulamiento.pdb
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\Clase 7 - Encapsulamiento.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\Clase 7 - Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\Clase 7 - Encapsulamiento.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\Clase 7 - Encapsulamiento.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\Clase 7 - Encapsulamiento.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\Clase 7 - Encapsulamiento.dll
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\refint\Clase 7 - Encapsulamiento.dll
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\Clase 7 - Encapsulamiento.pdb
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\Clase 7 - Encapsulamiento.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Clase 7 - Encapsulamiento\obj\Debug\net6.0\ref\Clase 7 - Encapsulamiento.dll

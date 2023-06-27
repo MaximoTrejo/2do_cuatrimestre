@@ -1,0 +1,12 @@
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\bin\Debug\net6.0\Persona.deps.json
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\bin\Debug\net6.0\Persona.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\bin\Debug\net6.0\Persona.pdb
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\Persona.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\Persona.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\Persona.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\Persona.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\Persona.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\Persona.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\refint\Persona.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\Persona.pdb
+D:\FACULTAD\Ejercicios\Clase3-Notas\Persona\obj\Debug\net6.0\ref\Persona.dll

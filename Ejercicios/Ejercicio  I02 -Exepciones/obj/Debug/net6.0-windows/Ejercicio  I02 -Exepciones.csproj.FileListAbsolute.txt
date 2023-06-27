@@ -1,0 +1,23 @@
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.exe
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.deps.json
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.dll
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.pdb
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio__I02__Exepciones.Calculador.resources
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.dll
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\refint\Ejercicio  I02 -Exepciones.dll
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.pdb
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\ref\Ejercicio  I02 -Exepciones.dll
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\2da parte - Excepciones.deps.json
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\2da parte - Excepciones.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\2da parte - Excepciones.exe
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\2da parte - Excepciones.dll
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\bin\Debug\net6.0-windows\2da parte - Excepciones.pdb
+D:\FACULTAD\Ejercicios\Ejercicio  I02 -Exepciones\obj\Debug\net6.0-windows\Ejercicio  I02 -Exepciones.csproj.CopyComplete

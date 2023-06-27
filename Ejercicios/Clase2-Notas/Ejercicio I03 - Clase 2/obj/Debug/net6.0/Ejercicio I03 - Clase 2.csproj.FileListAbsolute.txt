@@ -1,0 +1,18 @@
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\bin\Debug\net6.0\Ejercicio I03 - Clase 2.exe
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\bin\Debug\net6.0\Ejercicio I03 - Clase 2.deps.json
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\bin\Debug\net6.0\Ejercicio I03 - Clase 2.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\bin\Debug\net6.0\Ejercicio I03 - Clase 2.dll
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\bin\Debug\net6.0\Ejercicio I03 - Clase 2.pdb
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\bin\Debug\net6.0\Conversor.dll
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\bin\Debug\net6.0\Conversor.pdb
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.csproj.CopyComplete
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.dll
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\refint\Ejercicio I03 - Clase 2.dll
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.pdb
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\Ejercicio I03 - Clase 2.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Clase2-Notas\Ejercicio I03 - Clase 2\obj\Debug\net6.0\ref\Ejercicio I03 - Clase 2.dll

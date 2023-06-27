@@ -1,0 +1,15 @@
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\bin\Debug\net6.0\Equipo.deps.json
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\bin\Debug\net6.0\Equipo.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\bin\Debug\net6.0\Equipo.pdb
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\bin\Debug\net6.0\Jugador.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\bin\Debug\net6.0\Jugador.pdb
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\Equipo.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\Equipo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\Equipo.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\Equipo.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\Equipo.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\Equipo.csproj.CopyComplete
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\Equipo.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\refint\Equipo.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\Equipo.pdb
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Equipo\obj\Debug\net6.0\ref\Equipo.dll

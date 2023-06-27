@@ -1,0 +1,18 @@
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\bin\Debug\net6.0\Ejercicio-101 Clase2.exe
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\bin\Debug\net6.0\Ejercicio-101 Clase2.deps.json
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\bin\Debug\net6.0\Ejercicio-101 Clase2.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\bin\Debug\net6.0\Ejercicio-101 Clase2.dll
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\bin\Debug\net6.0\Ejercicio-101 Clase2.pdb
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\bin\Debug\net6.0\Validador.dll
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\bin\Debug\net6.0\Validador.pdb
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.csproj.CopyComplete
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.dll
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\refint\Ejercicio-101 Clase2.dll
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.pdb
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\Ejercicio-101 Clase2.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Ejercicio-101 Clase2\obj\Debug\net6.0\ref\Ejercicio-101 Clase2.dll

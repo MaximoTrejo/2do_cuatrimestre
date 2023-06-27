@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio C01 -Clase 5/1.0.0": {
+        "dependencies": {
+          "Equipo": "1.0.0",
+          "Jugador": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio C01 -Clase 5.dll": {}
+        }
+      },
+      "Equipo/1.0.0": {
+        "dependencies": {
+          "Jugador": "1.0.0"
+        },
+        "runtime": {
+          "Equipo.dll": {}
+        }
+      },
+      "Jugador/1.0.0": {
+        "runtime": {
+          "Jugador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio C01 -Clase 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Equipo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jugador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

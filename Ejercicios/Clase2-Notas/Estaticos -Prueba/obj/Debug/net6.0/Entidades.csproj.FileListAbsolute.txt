@@ -1,0 +1,5 @@
+D:\FACULTAD\Ejercicios\Clase2-Notas\Estaticos -Prueba\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase2-Notas\Estaticos -Prueba\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase2-Notas\Estaticos -Prueba\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase2-Notas\Estaticos -Prueba\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase2-Notas\Estaticos -Prueba\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache

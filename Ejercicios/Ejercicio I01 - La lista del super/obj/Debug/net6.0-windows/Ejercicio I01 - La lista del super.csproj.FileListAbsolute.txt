@@ -1,0 +1,18 @@
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\bin\Debug\net6.0-windows\Ejercicio I01 - La lista del super.exe
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\bin\Debug\net6.0-windows\Ejercicio I01 - La lista del super.deps.json
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\bin\Debug\net6.0-windows\Ejercicio I01 - La lista del super.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\bin\Debug\net6.0-windows\Ejercicio I01 - La lista del super.dll
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\bin\Debug\net6.0-windows\Ejercicio I01 - La lista del super.pdb
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.dll
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\refint\Ejercicio I01 - La lista del super.dll
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.pdb
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio I01 - La lista del super.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\ref\Ejercicio I01 - La lista del super.dll
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio_I01___La_lista_del_super.FrmAltaModificacion.resources
+D:\FACULTAD\Ejercicios\Ejercicio I01 - La lista del super\obj\Debug\net6.0-windows\Ejercicio_I01___La_lista_del_super.FrmVistaSuper.resources

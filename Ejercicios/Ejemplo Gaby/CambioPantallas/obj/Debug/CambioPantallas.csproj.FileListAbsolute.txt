@@ -1,0 +1,35 @@
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\bin\Debug\CambioPantallas.exe.config
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\bin\Debug\CambioPantallas.exe
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\bin\Debug\CambioPantallas.pdb
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Form1.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Properties.Resources.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.csproj.GenerateResource.cache
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.csproj.CoreCompileInputs.cache
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.exe
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.pdb
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaInicial.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaAzul.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaRoja.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaVerde.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaVioleta.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaNegra.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaNaranja.resources
+C:\Users\Finx34\source\repos\CambioPantallas\CambioPantallas\obj\Debug\CambioPantallas.csprojAssemblyReference.cache
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\bin\Debug\CambioPantallas.exe.config
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\bin\Debug\CambioPantallas.exe
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\bin\Debug\CambioPantallas.pdb
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.csproj.SuggestedBindingRedirects.cache
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Form1.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaAzul.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaNaranja.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaInicial.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaNegra.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaRoja.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaVerde.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Pantallas.PantallaVioleta.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.Properties.Resources.resources
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.exe
+D:\FACULTAD\Ejercicios\Ejemplo Gaby\CambioPantallas\obj\Debug\CambioPantallas.pdb

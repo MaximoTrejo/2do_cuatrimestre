@@ -1,0 +1,15 @@
+D:\FACULTAD\Ejercicios\hilos\bin\Debug\net6.0\hilos.exe
+D:\FACULTAD\Ejercicios\hilos\bin\Debug\net6.0\hilos.deps.json
+D:\FACULTAD\Ejercicios\hilos\bin\Debug\net6.0\hilos.runtimeconfig.json
+D:\FACULTAD\Ejercicios\hilos\bin\Debug\net6.0\hilos.dll
+D:\FACULTAD\Ejercicios\hilos\bin\Debug\net6.0\hilos.pdb
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\hilos.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\hilos.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\hilos.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\hilos.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\hilos.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\hilos.dll
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\refint\hilos.dll
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\hilos.pdb
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\hilos.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\hilos\obj\Debug\net6.0\ref\hilos.dll

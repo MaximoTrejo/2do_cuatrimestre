@@ -1,0 +1,17 @@
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\bin\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.exe
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\bin\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.deps.json
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\bin\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\bin\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.dll
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\bin\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.pdb
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase_14__Archivos_Serializacion.FrmNotepad.resources
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.dll
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\refint\Clase 14 -Archivos-Serializacion.dll
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.pdb
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\Clase 14 -Archivos-Serializacion.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Clase 14 -Archivos-Serializacion\obj\Debug\net6.0-windows\ref\Clase 14 -Archivos-Serializacion.dll

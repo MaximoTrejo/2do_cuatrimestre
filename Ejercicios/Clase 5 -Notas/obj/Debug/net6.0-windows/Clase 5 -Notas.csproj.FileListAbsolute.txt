@@ -1,0 +1,23 @@
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\Clase 5 -Notas.exe
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\Clase 5 -Notas.deps.json
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\Clase 5 -Notas.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\Clase 5 -Notas.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\Clase 5 -Notas.pdb
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase_5__Notas.Form1.resources
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\refint\Clase 5 -Notas.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.pdb
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\ref\Clase 5 -Notas.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\MenuPrincipal.deps.json
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\MenuPrincipal.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\MenuPrincipal.exe
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\MenuPrincipal.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\bin\Debug\net6.0-windows\MenuPrincipal.pdb
+D:\FACULTAD\Ejercicios\Clase 5 -Notas\obj\Debug\net6.0-windows\Clase 5 -Notas.csproj.CopyComplete

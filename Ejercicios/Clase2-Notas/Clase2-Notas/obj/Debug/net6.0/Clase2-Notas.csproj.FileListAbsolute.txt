@@ -1,0 +1,5 @@
+D:\FACULTAD\Ejercicios\Clase2-Notas\Clase2-Notas\obj\Debug\net6.0\Clase2-Notas.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase2-Notas\Clase2-Notas\obj\Debug\net6.0\Clase2-Notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase2-Notas\Clase2-Notas\obj\Debug\net6.0\Clase2-Notas.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase2-Notas\Clase2-Notas\obj\Debug\net6.0\Clase2-Notas.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase2-Notas\Clase2-Notas\obj\Debug\net6.0\Clase2-Notas.csproj.CoreCompileInputs.cache

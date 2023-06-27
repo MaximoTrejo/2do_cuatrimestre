@@ -1,0 +1,17 @@
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\bin\Debug\net6.0-windows\Ejercicio I03 -Colecciones.exe
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\bin\Debug\net6.0-windows\Ejercicio I03 -Colecciones.deps.json
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\bin\Debug\net6.0-windows\Ejercicio I03 -Colecciones.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\bin\Debug\net6.0-windows\Ejercicio I03 -Colecciones.dll
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\bin\Debug\net6.0-windows\Ejercicio I03 -Colecciones.pdb
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio_I03__Colecciones.Form1.resources
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.dll
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\refint\Ejercicio I03 -Colecciones.dll
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.pdb
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\Ejercicio I03 -Colecciones.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Ejercicio I03 -Colecciones\obj\Debug\net6.0-windows\ref\Ejercicio I03 -Colecciones.dll

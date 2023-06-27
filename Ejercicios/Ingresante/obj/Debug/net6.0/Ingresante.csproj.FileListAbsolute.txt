@@ -1,0 +1,12 @@
+D:\FACULTAD\Ejercicios\Ingresante\bin\Debug\net6.0\Ingresante.deps.json
+D:\FACULTAD\Ejercicios\Ingresante\bin\Debug\net6.0\Ingresante.dll
+D:\FACULTAD\Ejercicios\Ingresante\bin\Debug\net6.0\Ingresante.pdb
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\Ingresante.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\Ingresante.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\Ingresante.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\Ingresante.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\Ingresante.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\Ingresante.dll
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\refint\Ingresante.dll
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\Ingresante.pdb
+D:\FACULTAD\Ejercicios\Ingresante\obj\Debug\net6.0\ref\Ingresante.dll

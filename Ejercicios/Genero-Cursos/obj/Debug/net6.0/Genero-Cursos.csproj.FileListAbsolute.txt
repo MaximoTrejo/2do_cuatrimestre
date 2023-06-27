@@ -1,0 +1,12 @@
+D:\FACULTAD\Ejercicios\Genero-Cursos\bin\Debug\net6.0\Genero-Cursos.deps.json
+D:\FACULTAD\Ejercicios\Genero-Cursos\bin\Debug\net6.0\Genero-Cursos.dll
+D:\FACULTAD\Ejercicios\Genero-Cursos\bin\Debug\net6.0\Genero-Cursos.pdb
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\Genero-Cursos.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\Genero-Cursos.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\Genero-Cursos.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\Genero-Cursos.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\Genero-Cursos.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\Genero-Cursos.dll
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\refint\Genero-Cursos.dll
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\Genero-Cursos.pdb
+D:\FACULTAD\Ejercicios\Genero-Cursos\obj\Debug\net6.0\ref\Genero-Cursos.dll

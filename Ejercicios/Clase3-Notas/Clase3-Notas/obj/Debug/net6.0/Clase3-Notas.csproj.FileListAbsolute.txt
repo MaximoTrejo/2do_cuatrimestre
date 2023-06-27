@@ -1,0 +1,15 @@
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\bin\Debug\net6.0\Clase3-Notas.exe
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\bin\Debug\net6.0\Clase3-Notas.deps.json
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\bin\Debug\net6.0\Clase3-Notas.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\bin\Debug\net6.0\Clase3-Notas.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\bin\Debug\net6.0\Clase3-Notas.pdb
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\Clase3-Notas.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\Clase3-Notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\Clase3-Notas.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\Clase3-Notas.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\Clase3-Notas.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\Clase3-Notas.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\refint\Clase3-Notas.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\Clase3-Notas.pdb
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\Clase3-Notas.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Notas\obj\Debug\net6.0\ref\Clase3-Notas.dll

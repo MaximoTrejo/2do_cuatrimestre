@@ -1,0 +1,15 @@
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\bin\Debug\net6.0\Clase3-Ejercicio I01.exe
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\bin\Debug\net6.0\Clase3-Ejercicio I01.deps.json
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\bin\Debug\net6.0\Clase3-Ejercicio I01.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\bin\Debug\net6.0\Clase3-Ejercicio I01.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\bin\Debug\net6.0\Clase3-Ejercicio I01.pdb
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\Clase3-Ejercicio I01.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\Clase3-Ejercicio I01.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\Clase3-Ejercicio I01.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\Clase3-Ejercicio I01.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\Clase3-Ejercicio I01.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\Clase3-Ejercicio I01.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\refint\Clase3-Ejercicio I01.dll
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\Clase3-Ejercicio I01.pdb
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\Clase3-Ejercicio I01.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Clase3-Notas\Clase3-Ejercicio I01\obj\Debug\net6.0\ref\Clase3-Ejercicio I01.dll

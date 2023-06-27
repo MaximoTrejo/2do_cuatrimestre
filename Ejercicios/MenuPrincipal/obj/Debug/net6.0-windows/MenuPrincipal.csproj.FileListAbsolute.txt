@@ -1,0 +1,17 @@
+D:\FACULTAD\Ejercicios\MenuPrincipal\bin\Debug\net6.0-windows\MenuPrincipal.exe
+D:\FACULTAD\Ejercicios\MenuPrincipal\bin\Debug\net6.0-windows\MenuPrincipal.deps.json
+D:\FACULTAD\Ejercicios\MenuPrincipal\bin\Debug\net6.0-windows\MenuPrincipal.runtimeconfig.json
+D:\FACULTAD\Ejercicios\MenuPrincipal\bin\Debug\net6.0-windows\MenuPrincipal.dll
+D:\FACULTAD\Ejercicios\MenuPrincipal\bin\Debug\net6.0-windows\MenuPrincipal.pdb
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.dll
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\refint\MenuPrincipal.dll
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.pdb
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\ref\MenuPrincipal.dll
+D:\FACULTAD\Ejercicios\MenuPrincipal\obj\Debug\net6.0-windows\MenuPrincipal.FrmMenu.resources

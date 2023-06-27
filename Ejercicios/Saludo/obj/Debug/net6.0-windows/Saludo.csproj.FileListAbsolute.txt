@@ -1,0 +1,17 @@
+D:\FACULTAD\Ejercicios\Saludo\bin\Debug\net6.0-windows\Saludo.exe
+D:\FACULTAD\Ejercicios\Saludo\bin\Debug\net6.0-windows\Saludo.deps.json
+D:\FACULTAD\Ejercicios\Saludo\bin\Debug\net6.0-windows\Saludo.runtimeconfig.json
+D:\FACULTAD\Ejercicios\Saludo\bin\Debug\net6.0-windows\Saludo.dll
+D:\FACULTAD\Ejercicios\Saludo\bin\Debug\net6.0-windows\Saludo.pdb
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.FrmSaludar.resources
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.csproj.GenerateResource.cache
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.dll
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\refint\Saludo.dll
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.pdb
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\Saludo.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\Saludo\obj\Debug\net6.0-windows\ref\Saludo.dll

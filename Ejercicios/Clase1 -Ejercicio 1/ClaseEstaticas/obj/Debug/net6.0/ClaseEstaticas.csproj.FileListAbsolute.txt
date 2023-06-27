@@ -1,0 +1,12 @@
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\bin\Debug\net6.0\ClaseEstaticas.deps.json
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\bin\Debug\net6.0\ClaseEstaticas.dll
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\bin\Debug\net6.0\ClaseEstaticas.pdb
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\ClaseEstaticas.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\ClaseEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\ClaseEstaticas.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\ClaseEstaticas.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\ClaseEstaticas.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\ClaseEstaticas.dll
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\refint\ClaseEstaticas.dll
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\ClaseEstaticas.pdb
+D:\FACULTAD\Ejercicios\Clase1 -Ejercicio 1\ClaseEstaticas\obj\Debug\net6.0\ref\ClaseEstaticas.dll

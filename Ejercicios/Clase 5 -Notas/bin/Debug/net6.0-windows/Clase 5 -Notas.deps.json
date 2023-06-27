@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase 5 -Notas/1.0.0": {
+        "dependencies": {
+          "MenuPrincipal": "1.0.0"
+        },
+        "runtime": {
+          "Clase 5 -Notas.dll": {}
+        }
+      },
+      "MenuPrincipal/1.0.0": {
+        "runtime": {
+          "MenuPrincipal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase 5 -Notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MenuPrincipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

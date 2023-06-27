@@ -1,0 +1,15 @@
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\bin\Debug\net6.0\2da parte - Excepciones.exe
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\bin\Debug\net6.0\2da parte - Excepciones.deps.json
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\bin\Debug\net6.0\2da parte - Excepciones.runtimeconfig.json
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\bin\Debug\net6.0\2da parte - Excepciones.dll
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\bin\Debug\net6.0\2da parte - Excepciones.pdb
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\2da parte - Excepciones.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\2da parte - Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\2da parte - Excepciones.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\2da parte - Excepciones.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\2da parte - Excepciones.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\2da parte - Excepciones.dll
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\refint\2da parte - Excepciones.dll
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\2da parte - Excepciones.pdb
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\2da parte - Excepciones.genruntimeconfig.cache
+D:\FACULTAD\Ejercicios\2da parte - Excepciones\obj\Debug\net6.0\ref\2da parte - Excepciones.dll

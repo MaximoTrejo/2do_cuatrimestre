@@ -1,0 +1,15 @@
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\Clase 1 -Notas.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\Clase 1 -Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\Clase 1 -Notas.AssemblyInfoInputs.cache
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\Clase 1 -Notas.AssemblyInfo.cs
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\Clase 1 -Notas.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\bin\Debug\net6.0\Clase 1 -Notas.exe
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\bin\Debug\net6.0\Clase 1 -Notas.deps.json
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\bin\Debug\net6.0\Clase 1 -Notas.runtimeconfig.json
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\bin\Debug\net6.0\Clase 1 -Notas.dll
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\bin\Debug\net6.0\Clase 1 -Notas.pdb
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\Clase 1 -Notas.dll
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\refint\Clase 1 -Notas.dll
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\Clase 1 -Notas.pdb
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\Clase 1 -Notas.genruntimeconfig.cache
+C:\Users\maxim\OneDrive\Escritorio\Ejercicios\Clase 1 -Notas\Clase 1 -Notas\obj\Debug\net6.0\ref\Clase 1 -Notas.dll

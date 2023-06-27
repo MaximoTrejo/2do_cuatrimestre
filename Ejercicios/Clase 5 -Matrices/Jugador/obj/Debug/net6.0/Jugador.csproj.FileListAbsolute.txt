@@ -1,0 +1,12 @@
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\bin\Debug\net6.0\Jugador.deps.json
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\bin\Debug\net6.0\Jugador.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\bin\Debug\net6.0\Jugador.pdb
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\Jugador.csproj.AssemblyReference.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\Jugador.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\Jugador.AssemblyInfoInputs.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\Jugador.AssemblyInfo.cs
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\Jugador.csproj.CoreCompileInputs.cache
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\Jugador.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\refint\Jugador.dll
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\Jugador.pdb
+D:\FACULTAD\Ejercicios\Clase 5 -Matrices\Jugador\obj\Debug\net6.0\ref\Jugador.dll

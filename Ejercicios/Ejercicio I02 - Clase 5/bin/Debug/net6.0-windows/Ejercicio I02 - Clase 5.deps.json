@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio I02 - Clase 5/1.0.0": {
+        "dependencies": {
+          "Genero-Cursos": "1.0.0",
+          "Ingresante": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I02 - Clase 5.dll": {}
+        }
+      },
+      "Genero-Cursos/1.0.0": {
+        "runtime": {
+          "Genero-Cursos.dll": {}
+        }
+      },
+      "Ingresante/1.0.0": {
+        "runtime": {
+          "Ingresante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I02 - Clase 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Genero-Cursos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ingresante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

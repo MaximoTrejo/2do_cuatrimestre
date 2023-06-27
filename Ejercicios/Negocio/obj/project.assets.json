@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Cliente/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Cliente.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cliente.dll": {}
+        }
+      },
+      "PuestoAtencion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Cliente": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PuestoAtencion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PuestoAtencion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cliente/1.0.0": {
+      "type": "project",
+      "path": "../Cliente/Cliente.csproj",
+      "msbuildProject": "../Cliente/Cliente.csproj"
+    },
+    "PuestoAtencion/1.0.0": {
+      "type": "project",
+      "path": "../PuestoAtencion/PuestoAtencion.csproj",
+      "msbuildProject": "../PuestoAtencion/PuestoAtencion.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Cliente >= 1.0.0",
+      "PuestoAtencion >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\maxim\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\FACULTAD\\Ejercicios\\Negocio\\Negocio.csproj",
+      "projectName": "Negocio",
+      "projectPath": "D:\\FACULTAD\\Ejercicios\\Negocio\\Negocio.csproj",
+      "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
+      "outputPath": "D:\\FACULTAD\\Ejercicios\\Negocio\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\FACULTAD\\Ejercicios\\Cliente\\Cliente.csproj": {
+              "projectPath": "D:\\FACULTAD\\Ejercicios\\Cliente\\Cliente.csproj"
+            },
+            "D:\\FACULTAD\\Ejercicios\\PuestoAtencion\\PuestoAtencion.csproj": {
+              "projectPath": "D:\\FACULTAD\\Ejercicios\\PuestoAtencion\\PuestoAtencion.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
